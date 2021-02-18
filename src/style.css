@@ -34,10 +34,6 @@
   }
 
   @media (max-width: 500px) {
-    body {
-      color: red;
-    }
-
     #html {
       height: 50vh;
       overflow: auto;
